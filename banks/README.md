@@ -1,4 +1,4 @@
-# Проект "Анализ оттока клиентов Банка в Ярославской области"
+# Проект "Анализ оттока клиентов Банка"
 [ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report.ipynb)
 
 [html](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report_html.html)
