@@ -1,9 +1,9 @@
-# Анализ продаж компьютерных игр в период с 1980 по 2016 г.
+# Анализ продаж компьютерных игр в период
 
 
-[ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/e-commerce/p7_ab_test.ipynb)
+[ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/games/games.ipynb)
 
-[html](https://github.com/daoreshina/DA-portfolio/blob/main/e-commerce/p7_ab_test_html.html)
+[html](https://raw.githubusercontent.com/daoreshina/DA-portfolio/main/games/games_html.html)
 
 
 ##
