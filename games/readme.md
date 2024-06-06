@@ -1,4 +1,4 @@
-# Анализ продаж компьютерных игр в период
+# Анализ продаж компьютерных игр
 
 
 [ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/games/games.ipynb)
