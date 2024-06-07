@@ -1,30 +1,26 @@
 # Проект "Анализ оттока клиентов Банка"
-[ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report.ipynb)
-
-[html](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report_html.html)
-
-[pdf presentation](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_pres.pdf)
+[ipynb](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report.ipynb) | [html](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_report_html.html) | [pdf presentation](https://github.com/daoreshina/DA-portfolio/blob/main/banks/banki_pres.pdf)
 
 ##
 
-## Цель
-Провести анализ отточных сегментов банка и сформулировать рекомендации для отдела маркетинга по повышению лояльности таких сегментов.
+## Описание проекта
+<b>Цель:</b> Провести анализ отточных сегментов банка и сформулировать рекомендации для отдела маркетинга по повышению лояльности таких сегментов.
 
+<b>Данные:</b> Данные о 10 тыс. клиентов банка в трех филиалах: социально-экономические характеристики и показатели финансового поведения.
 ##
 
 ## Инструменты и навыки
-Python
-Pandas
-Scipy, stats
-Numpy 
-Math 
-Statistics
-Matplotlib
-Seaborn
-Исследовательский анализ данных
-Проверка статистических гипотез
-Визуализация
-Подготовка презентации
+ - Python
+- Pandas
+- Scipy, stats
+- Numpy 
+- Math 
+- Matplotlib
+- Seaborn
+- Исследовательский анализ данных
+- Проверка статистических гипотез
+- Визуализация
+- Подготовка презентации
 
 ## 
 ## Результаты
